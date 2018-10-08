@@ -1,0 +1,11 @@
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.csprojAssemblyReference.cache
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.csproj.CoreCompileInputs.cache
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.AssemblyInfoInputs.cache
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.AssemblyInfo.cs
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/bin/Debug/netcoreapp2.1/Lab_1_Room_detailer.deps.json
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/bin/Debug/netcoreapp2.1/Lab_1_Room_detailer.runtimeconfig.json
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/bin/Debug/netcoreapp2.1/Lab_1_Room_detailer.runtimeconfig.dev.json
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/bin/Debug/netcoreapp2.1/Lab_1_Room_detailer.dll
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/bin/Debug/netcoreapp2.1/Lab_1_Room_detailer.pdb
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.dll
+/Users/tonytodek/Projects/Lab_1_Room_detailer/Lab_1_Room_detailer/obj/Debug/netcoreapp2.1/Lab_1_Room_detailer.pdb
